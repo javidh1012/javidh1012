@@ -62,4 +62,4 @@ VS Code
 
 📧 Email: mohamedjavidh2k5@gmail.com
 
-💼 LinkedIn: linkedin.com/in/Mohamed-javidh2k5
+💼 LinkedIn: https://www.linkedin.com/in/mohamed-javidh2k5/
